@@ -1,5 +1,4 @@
 # JavaScript Drumkit
-- - -
 
 Started the Javascript 30 Challenge. First challenge would be to create the drumkit with basic Vanilla JavaScript and play a sound as per the key pressed. 
 
