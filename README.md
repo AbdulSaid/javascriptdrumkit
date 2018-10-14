@@ -6,3 +6,7 @@ Started the Javascript 30 Challenge. First challenge would be to create the drum
 - - -
 
 ![Image 1](https://github.com/AbdulSaid/javascriptdrumkit/blob/master/Screen%20Shot%202018-10-14%20at%205.44.51%20PM.png)
+
+# Deployed Site
+
+https://abdulsaid.github.io/javascriptdrumkit/
